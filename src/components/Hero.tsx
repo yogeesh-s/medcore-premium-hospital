@@ -42,7 +42,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-5">
             <motion.a
-              href="tel:+918182223632"
+              href="tel:+919876543210"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="bg-primary text-white px-4 md:px-10 py-5 rounded-[2rem] font-black flex items-center justify-center gap-3 shadow-2xl shadow-blue-500/25 hover:bg-primary-dark transition-all text-lg group"
@@ -52,7 +52,7 @@ export default function Hero() {
               <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
             </motion.a>
             <motion.a
-              href="https://wa.me/918182223632"
+              href="https://wa.me/919876543210"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.02 }}

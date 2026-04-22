@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const doctors = [
   {
-    name: "Dr. Sandesh Gutti",
+    name: "Dr. Sandesh",
     specialty: "Chief Medical Officer",
     qualifications: "MBBS, MD (General Medicine)",
     experience: "15+ Years",

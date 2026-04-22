@@ -19,7 +19,7 @@ export default function FAQ() {
     },
     {
       question: "How can I book an appointment?",
-      answer: "You can book an appointment by calling us directly at +91 81822 23632 or through WhatsApp. We also offer walk-in consultations, though booking in advance is recommended to reduce waiting time."
+      answer: "You can book an appointment by calling us directly at +91 98765 43210 or through WhatsApp. We also offer walk-in consultations, though booking in advance is recommended to reduce waiting time."
     },
     {
       question: "Are diagnostic services like MRI and CT scans available?",

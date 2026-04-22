@@ -57,12 +57,12 @@ export default function ContactPageUI() {
             <p className="text-red-100 mt-4 text-xl font-medium opacity-80">Our ambulance and ER team are ready to assist you right now.</p>
           </div>
           <motion.a
-            href="tel:+918182223632"
+            href="tel:+919876543210"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="relative z-10 bg-white text-red-600 px-4 md:px-12 py-6 rounded-[2.5rem] font-black text-3xl md:text-4xl flex items-center gap-6 shadow-2xl shadow-black/20"
           >
-            <Phone size={40} fill="currentColor" /> +91 81822 23632
+            <Phone size={40} fill="currentColor" /> +91 98765 43210
           </motion.a>
         </motion.div>
       </div>
@@ -81,9 +81,9 @@ export default function ContactPageUI() {
                     <h4 className="font-black text-slate-900 text-lg md:text-xl">Call Us</h4>
                   </div>
                   <div>
-                    <a href="tel:+918182223632" className="text-slate-500 text-sm md:text-lg font-bold hover:text-primary transition-colors">+91 81822 23632</a>
+                    <a href="tel:+919876543210" className="text-slate-500 text-sm md:text-lg font-bold hover:text-primary transition-colors">+91 98765 43210</a>
                   </div>
-                  <a href="tel:+918182223632" className="w-full mt-2 bg-primary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-primary-dark transition-all shadow-lg shadow-blue-500/20 active:scale-95 md:hidden">
+                  <a href="tel:+919876543210" className="w-full mt-2 bg-primary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-primary-dark transition-all shadow-lg shadow-blue-500/20 active:scale-95 md:hidden">
                     <Phone size={16} fill="currentColor" /> Call Now
                   </a>
                 </div>
@@ -96,9 +96,9 @@ export default function ContactPageUI() {
                     <h4 className="font-black text-slate-900 text-lg md:text-xl">WhatsApp</h4>
                   </div>
                   <div>
-                    <a href="https://wa.me/918182223632" className="text-slate-500 text-sm md:text-lg font-bold hover:text-secondary transition-colors">Chat With Us</a>
+                    <a href="https://wa.me/919876543210" className="text-slate-500 text-sm md:text-lg font-bold hover:text-secondary transition-colors">Chat With Us</a>
                   </div>
-                  <a href="https://wa.me/918182223632" className="w-full mt-2 bg-secondary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-emerald-600 transition-all shadow-lg shadow-emerald-500/20 active:scale-95 md:hidden">
+                  <a href="https://wa.me/919876543210" className="w-full mt-2 bg-secondary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-emerald-600 transition-all shadow-lg shadow-emerald-500/20 active:scale-95 md:hidden">
                     <MessageCircle size={16} /> WhatsApp
                   </a>
                 </div>
@@ -193,7 +193,7 @@ export default function ContactPageUI() {
                  Get Directions
                </motion.a>
                <motion.a 
-                href="tel:+918182223632" 
+                href="tel:+919876543210" 
                 whileHover={{ y: -5 }}
                 className="bg-primary text-white py-6 rounded-[2rem] font-black text-center shadow-2xl shadow-blue-500/20"
                >

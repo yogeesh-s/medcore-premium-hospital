@@ -23,7 +23,7 @@ export default function StickyBottomBar() {
             className="bg-white/80 backdrop-blur-2xl p-2.5 flex items-center justify-between gap-3 shadow-[0_20px_50px_rgba(0,0,0,0.2)] border border-white/50 rounded-[2.5rem]"
           >
             <motion.a
-              href="tel:+918182223632"
+              href="tel:+919876543210"
               whileTap={{ scale: 0.95 }}
               className="flex-1 bg-primary text-white py-4 px-4 rounded-[2rem] flex items-center justify-center gap-2 font-black text-sm shadow-lg shadow-blue-500/30 active:bg-primary-dark transition-all"
             >
@@ -31,7 +31,7 @@ export default function StickyBottomBar() {
               Emergency
             </motion.a>
             <motion.a
-              href="https://wa.me/918182223632"
+              href="https://wa.me/919876543210"
               target="_blank"
               rel="noopener noreferrer"
               whileTap={{ scale: 0.95 }}

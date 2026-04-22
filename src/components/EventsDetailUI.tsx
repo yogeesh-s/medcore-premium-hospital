@@ -129,7 +129,7 @@ export default function EventsDetailUI({ event }: EventsDetailUIProps) {
                </div>
                
                {showRegister ? (
-                 <a href="tel:+918182223632" className="w-full mt-6 md:mt-10 bg-primary text-white py-4 md:py-5 rounded-lg md:rounded-[2rem] font-black shadow-lg shadow-blue-500/20 active:scale-95 transition-all text-center block">
+                 <a href="tel:+919876543210" className="w-full mt-6 md:mt-10 bg-primary text-white py-4 md:py-5 rounded-lg md:rounded-[2rem] font-black shadow-lg shadow-blue-500/20 active:scale-95 transition-all text-center block">
                     Register Now
                  </a>
                ) : (

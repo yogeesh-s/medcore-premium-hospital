@@ -55,16 +55,16 @@ export default function ContactSection() {
                   <h3 className="text-lg md:text-xl font-black text-slate-900">Emergency Help</h3>
                 </div>
                 <div>
-                  <p className="text-xl md:text-2xl font-black text-primary mb-4 leading-none">+91 81822 23632</p>
+                  <p className="text-xl md:text-2xl font-black text-primary mb-4 leading-none">+91 98765 43210</p>
                   <div className="flex flex-col gap-3 w-full">
                     <a
-                      href="tel:+918182223632"
+                      href="tel:+919876543210"
                       className="w-full bg-primary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-primary-dark transition-all shadow-lg shadow-blue-500/20 active:scale-95"
                     >
                       <Phone size={18} fill="currentColor" /> Call
                     </a>
                     <a
-                      href="https://wa.me/918182223632"
+                      href="https://wa.me/919876543210"
                       className="w-full bg-secondary text-white px-6 py-3 rounded-lg md:rounded-2xl font-black flex items-center justify-center gap-2 hover:bg-emerald-600 transition-all shadow-lg shadow-emerald-500/20 active:scale-95"
                     >
                       <MessageCircle size={18} /> WhatsApp

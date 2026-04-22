@@ -49,14 +49,14 @@ export default function NotFound() {
             
             <div className="flex gap-4 w-full sm:w-auto">
               <a
-                href="tel:+918182223632"
+                href="tel:+919876543210"
                 className="flex-1 bg-white text-slate-900 px-4 md:px-8 py-5 rounded-[2rem] font-black flex items-center gap-3 border border-slate-200 shadow-sm hover:bg-slate-50 transition-all active:scale-95 justify-center"
               >
                 <Phone size={20} className="text-primary" />
                 Call
               </a>
               <a
-                href="https://wa.me/918182223632"
+                href="https://wa.me/919876543210"
                 className="flex-1 bg-secondary text-white px-4 md:px-8 py-5 rounded-[2rem] font-black flex items-center gap-3 shadow-lg shadow-secondary/20 hover:bg-emerald-600 transition-all active:scale-95 justify-center"
               >
                 <MessageCircle size={20} />

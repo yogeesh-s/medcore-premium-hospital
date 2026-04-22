@@ -8,7 +8,7 @@ import Image from "next/image";
 export default function DoctorsPreview() {
   const doctors = [
     {
-      name: "Dr. Sandesh Gutti",
+      name: "Dr. Sandesh",
       specialty: "Chief Medical Officer",
       qualification: "MBBS, MD (General Medicine)",
       experience: "15+ Years",

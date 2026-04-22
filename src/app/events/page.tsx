@@ -109,7 +109,7 @@ export default function EventsPage() {
                     
                     <div className="flex items-center justify-between pt-6 md:pt-8 border-t border-slate-50">
                       {showRegister ? (
-                        <a href="tel:+918182223632" className="bg-primary text-white px-6 md:px-8 py-3 md:py-4 rounded-lg md:rounded-2xl font-black text-xs md:text-sm hover:bg-primary-dark transition-all active:scale-95 shadow-lg shadow-blue-500/20 text-center">
+                        <a href="tel:+919876543210" className="bg-primary text-white px-6 md:px-8 py-3 md:py-4 rounded-lg md:rounded-2xl font-black text-xs md:text-sm hover:bg-primary-dark transition-all active:scale-95 shadow-lg shadow-blue-500/20 text-center">
                           Register Now
                         </a>
                       ) : (

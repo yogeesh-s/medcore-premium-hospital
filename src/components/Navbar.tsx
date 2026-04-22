@@ -96,7 +96,7 @@ export default function Navbar() {
               ))}
               <div className="flex items-center gap-3 ml-4">
                 <a
-                  href="tel:+918182223632"
+                  href="tel:+919876543210"
                   className="bg-primary text-white px-6 py-2.5 rounded-full text-sm font-bold flex items-center gap-2 hover:bg-primary-dark transition-all shadow-lg shadow-blue-500/20 active:scale-95"
                 >
                   <Phone size={16} fill="currentColor" />

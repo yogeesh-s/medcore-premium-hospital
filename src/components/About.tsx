@@ -103,7 +103,7 @@ export default function About() {
 
             <div className="mt-12 flex items-center gap-6">
               <div className="flex flex-col">
-                <p className="text-2xl font-black text-slate-900">Dr. Gutti</p>
+                <p className="text-2xl font-black text-slate-900">Dr. Harish</p>
                 <p className="text-sm font-bold text-slate-400 uppercase tracking-widest">
                   Chief Medical Officer
                 </p>

@@ -118,7 +118,7 @@ export default function DepartmentDetailUI({ department, allDepartments }: Depar
                   <h3 className="text-3xl font-black mb-2 italic">Need immediate help?</h3>
                   <p className="text-blue-100 font-medium opacity-80 uppercase tracking-widest text-xs">Our emergency response team is available 24/7</p>
                </div>
-               <a href="tel:+918182223632" className="bg-white text-primary px-18 md:px-10 py-5 rounded-[2rem] font-black text-xl flex items-center gap-3 active:scale-95 transition-all shadow-xl">
+               <a href="tel:+919876543210" className="bg-white text-primary px-18 md:px-10 py-5 rounded-[2rem] font-black text-xl flex items-center gap-3 active:scale-95 transition-all shadow-xl">
                   <Phone size={24} fill="currentColor" /> Call Us
                </a>
             </div>
@@ -150,7 +150,7 @@ export default function DepartmentDetailUI({ department, allDepartments }: Depar
               <h3 className="text-2xl font-black mb-6 relative z-10 leading-tight">Ready to book an appointment?</h3>
               <p className="text-slate-400 mb-6 md:mb-10 relative z-10 font-medium">Connect with our specialists instantly via WhatsApp.</p>
               <a
-                href="https://wa.me/918182223632"
+                href="https://wa.me/919876543210"
                 className="flex items-center justify-center gap-3 bg-secondary hover:bg-emerald-600 text-white py-5 rounded-[2rem] font-black transition-all shadow-lg active:scale-95 relative z-10"
               >
                 <MessageCircle size={20} /> Chat on WhatsApp

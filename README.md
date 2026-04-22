@@ -23,7 +23,7 @@ A high-performance, responsive, and SEO-optimized hospital landing page built wi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/medcore-premium-hospital.git
+   git clone https://github.com/yogeesh-s/medcore-premium-hospital.git
    ```
 
 2. **Install dependencies:**

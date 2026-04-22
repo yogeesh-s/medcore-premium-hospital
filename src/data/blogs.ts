@@ -3,7 +3,7 @@ export const blogPosts = [
     title: "10 Essential Tips for a Healthy Heart",
     slug: "healthy-heart-tips",
     date: "April 15, 2026",
-    author: "Dr. Sandesh Gutti",
+    author: "Dr. Sandesh",
     category: "Cardiology",
     image: "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?q=80&w=1200&auto=format&fit=crop",
     excerpt: "Heart disease is a leading cause of health issues globally. Learn how simple lifestyle changes can significantly improve your cardiac health.",

@@ -130,13 +130,13 @@ export default function ServiceDetailUI({ service, allServices }: ServiceDetailU
               <p className="text-slate-400 mb-6 md:mb-10 relative z-10 font-medium">Get accurate results with our advanced diagnostic technology.</p>
               <div className="space-y-4 relative z-10">
                 <a
-                  href="tel:+918182223632"
+                  href="tel:+919876543210"
                   className="flex items-center justify-center gap-3 bg-primary hover:bg-primary-dark text-white py-5 rounded-[2rem] font-black transition-all shadow-lg active:scale-95"
                 >
                   <Phone size={20} fill="currentColor" /> Call for Booking
                 </a>
                 <a
-                  href="https://wa.me/918182223632"
+                  href="https://wa.me/919876543210"
                   className="flex items-center justify-center gap-3 bg-secondary hover:bg-emerald-600 text-white py-5 rounded-[2rem] font-black transition-all shadow-lg active:scale-95"
                 >
                   <MessageCircle size={20} /> WhatsApp Us
